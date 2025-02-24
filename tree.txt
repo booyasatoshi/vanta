@@ -1,0 +1,10 @@
+vanta-api-wrapper/
+├── vanta/
+│   ├── __init__.py
+│   └── api.py
+├── tests/
+│   └── test_api.py
+├── setup.py
+├── README.md
+├── requirements.txt
+└── LICENSE
